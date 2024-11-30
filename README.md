@@ -55,10 +55,10 @@
 - 本科生：数据科学＆设计学
   - 时间：2021.03 - 2024.03
   - 相关课程：设计方向，设计方法及实操，用户研究、商业模型制作及数据分析
-  - 机器学习部分均达到high Distinction
+  - 设计 & 机器学习部分均达到high Distinction
 - 研究生：数据科学＋机器学习
   - 时间：2024.02 - 2025.08
-  - 目前仅完成第一学期的学习任务，均分为75分，机器学习部分均达到high Distinction
+  - 目前仅完成第一学期的学习任务，均分达75分
 
 ## 项目展示
 
@@ -78,11 +78,3 @@
 - 个人独立项目：商业模型制作、用户数据调研、产品创新展示
   - 时间：2023.08 - 2023.11
   - 通过对英国石油公司加油站服务系统的深入分析，识别现有服务系统中的问题，并提出创新的解决方案，展示了较强的商业分析和创新能力。
-
-## GitHub 统计数据
-
-![我的GitHub统计](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-## 最常用的编程语言
-
-![最常用的编程语言](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
