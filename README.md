@@ -73,6 +73,12 @@
   - 研究海洋珊瑚白化问题的起因及影响，通过制作可视化工具，展示了较强的数据分析和可视化能力。
   - [GitHub链接](https://github.com/myUSYDlife/DATA3888#readme)
   - [Shiny App链接](https://reef6.shinyapps.io/reef_app/)
+ 
+### 优化模型揭示波士顿房价关键因素：数据分析与模型选择研究
+- 团队组长、可视化总负责人、演讲主讲
+  - 时间：2021.08 - 2021.11
+  - 研究波士顿住房数据集（Boston Housing Dataset）中的变量，识别出影响房价的关键因素，并使用多元回归模型进行分析。最终模型选择基于赤池信息准则（AIC）。
+  - [GitHub链接](https://github.com/myUSYDlife/DATA2002#readme)
 
 ### 关于英国石油公司（BP）加油站服务系统的商业创新
 - 个人独立项目：商业模型制作、用户数据调研、产品创新展示
