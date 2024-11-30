@@ -14,11 +14,39 @@
 
 ## 专业能力
 
-- 数据科学：Python、R语言、SQL、机器学习、数据可视化
-- 用户研究：用户调研、用户分析、Figma、Canva
-- 商业分析：市场分析、商业模型制作
-- 设计工具：Figma、Canva、Al&ID
-- 数据工具：Tableau、PowerBi
+### 数据科学
+
+- 精通编程语言：Python、R语言
+- 数据库管理：SQL
+- 机器学习：模型构建、训练与评估（例如：线性回归、决策树、随机森林、支持向量机、神经网络）
+- 数据可视化：Matplotlib、Seaborn、ggplot2
+- 数据分析与清理：Pandas、NumPy
+- 数据收集与处理：Web Scraping、API集成
+
+### 用户研究
+
+- 用户调研：设计和执行用户调研，收集用户反馈
+- 用户分析：使用数据分析工具进行用户行为分析
+- 用户体验设计：Figma、Canva
+- 用户旅程和故事板制作：从用户需求到产品设计的全面分析
+
+### 商业分析
+
+- 市场分析：分析市场趋势和竞争对手
+- 商业模型制作：创建和评估商业模型
+- 数据驱动决策：基于数据的商业策略制定
+
+### 设计工具
+
+- 界面设计：Figma、Adobe Illustrator (AI)、Adobe InDesign (ID)
+- 原型制作：使用Figma和Canva进行产品原型设计
+- 视觉设计：设计视觉图形和品牌标识
+
+### 数据工具
+
+- 数据可视化：Tableau、PowerBI
+- 数据处理与分析：Excel、高级数据透视表
+- 商务智能（BI）：创建互动仪表盘和报告
 
 ## 教育背景
 
@@ -58,4 +86,3 @@
 ## 最常用的编程语言
 
 ![最常用的编程语言](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
