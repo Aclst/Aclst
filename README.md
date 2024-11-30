@@ -71,7 +71,7 @@
 - 团队组长、可视化总负责人、风险计算作者
   - 时间：2023.02 - 2023.06
   - 研究海洋珊瑚白化问题的起因及影响，通过制作可视化工具，展示了较强的数据分析和可视化能力。
-  - [GitHub链接](https://github.sydney.edu.au/jwan7577/Reef)
+  - [GitHub链接]([https://github.sydney.edu.au/jwan7577/Reef](https://github.com/myUSYDlife/DATA3888))
   - [Shiny App链接](https://reefd.shinyapps.io/reef_app/)
 
 ### 关于英国石油公司（BP）加油站服务系统的商业创新
